@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Hi there 👋
-I am a student at URBAN Online University
+I am a student at Online URBAN-University
 - 🌱 I’m currently learning Kotlin, Java, Android Studio, C++, Python and more
 
 
