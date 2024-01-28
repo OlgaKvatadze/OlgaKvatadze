@@ -1,7 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Olga</a> 
+<h1 align="center">Hello, my name is <a href="https://daniilshat.ru/" target="_blank">Olga</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Hi there 👋
+I am a student at URBAN Online University
 
 <!--
 **OlgaKvatadze/OlgaKvatadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
